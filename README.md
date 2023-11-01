@@ -1,2 +1,2 @@
 # SwiftData
-Demonstration of SwiftData using SwiftUI
+Demonstration of CRUD on SwiftData using SwiftUI
