@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		900A3CC62AF26BFB009F4835 /* SwiftDataDempApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900A3CC52AF26BFB009F4835 /* SwiftDataDempApp.swift */; };
+		900A3CC62AF26BFB009F4835 /* SwiftDataDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900A3CC52AF26BFB009F4835 /* SwiftDataDemoApp.swift */; };
 		900A3CC82AF26BFB009F4835 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900A3CC72AF26BFB009F4835 /* ContentView.swift */; };
 		900A3CCA2AF26BFD009F4835 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 900A3CC92AF26BFD009F4835 /* Assets.xcassets */; };
 		900A3CCD2AF26BFD009F4835 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 900A3CCC2AF26BFD009F4835 /* Preview Assets.xcassets */; };
@@ -36,7 +36,7 @@
 
 /* Begin PBXFileReference section */
 		900A3CC22AF26BFB009F4835 /* SwiftDataDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDataDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		900A3CC52AF26BFB009F4835 /* SwiftDataDempApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataDempApp.swift; sourceTree = "<group>"; };
+		900A3CC52AF26BFB009F4835 /* SwiftDataDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataDemoApp.swift; sourceTree = "<group>"; };
 		900A3CC72AF26BFB009F4835 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		900A3CC92AF26BFD009F4835 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		900A3CCC2AF26BFD009F4835 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 		900A3CB92AF26BFB009F4835 = {
 			isa = PBXGroup;
 			children = (
-				900A3CC42AF26BFB009F4835 /* SwiftDataDemp */,
+				900A3CC42AF26BFB009F4835 /* SwiftDataDemo */,
 				900A3CD52AF26BFE009F4835 /* SwiftDataDemoTests */,
 				900A3CDF2AF26BFE009F4835 /* SwiftDataDemoUITests */,
 				900A3CC32AF26BFB009F4835 /* Products */,
@@ -93,16 +93,16 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		900A3CC42AF26BFB009F4835 /* SwiftDataDemp */ = {
+		900A3CC42AF26BFB009F4835 /* SwiftDataDemo */ = {
 			isa = PBXGroup;
 			children = (
-				900A3CC52AF26BFB009F4835 /* SwiftDataDempApp.swift */,
+				900A3CC52AF26BFB009F4835 /* SwiftDataDemoApp.swift */,
 				900A3CC72AF26BFB009F4835 /* ContentView.swift */,
 				900A3CC92AF26BFD009F4835 /* Assets.xcassets */,
 				900A3CCB2AF26BFD009F4835 /* Preview Content */,
 				900A3CEF2AF26C2C009F4835 /* DataItem.swift */,
 			);
-			path = SwiftDataDemp;
+			path = SwiftDataDemo;
 			sourceTree = "<group>";
 		};
 		900A3CCB2AF26BFD009F4835 /* Preview Content */ = {
@@ -262,7 +262,7 @@
 			files = (
 				900A3CC82AF26BFB009F4835 /* ContentView.swift in Sources */,
 				900A3CF02AF26C2C009F4835 /* DataItem.swift in Sources */,
-				900A3CC62AF26BFB009F4835 /* SwiftDataDempApp.swift in Sources */,
+				900A3CC62AF26BFB009F4835 /* SwiftDataDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
